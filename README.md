@@ -16,7 +16,7 @@
 apt update && apt upgrade 
 pkg install python 
 pkg install git
- git clone https://github.com/NazmulHossain1623/CLONER.git
+git clone https://github.com/NazmulHossain1623/CLONER.git
  
 ```
 #### RUN SCRIPT
