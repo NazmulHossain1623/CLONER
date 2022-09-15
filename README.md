@@ -21,8 +21,8 @@ git clone https://github.com/NazmulHossain1623/CLONER.git
 ```
 #### RUN SCRIPT
 ```python
- cd CLONER
- python run.txt
+ cd CLONE
+ python2 run.txt
 ```
 
 
